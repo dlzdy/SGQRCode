@@ -279,6 +279,7 @@
 				TargetAttributes = {
 					18479EC91E80F92500F7F225 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = UVAZRL8KC2;
 						ProvisioningStyle = Automatic;
 					};
 					18479EE21E80F92500F7F225 = {
@@ -494,11 +495,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = UVAZRL8KC2;
 				INFOPLIST_FILE = SGQRCodeExample/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Sorgle.SGQRCodeExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jeenms.SGQRCodeExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -507,11 +508,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = UVAZRL8KC2;
 				INFOPLIST_FILE = SGQRCodeExample/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Sorgle.SGQRCodeExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jeenms.SGQRCodeExample;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
